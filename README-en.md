@@ -7,8 +7,8 @@ This repo is a curated list of awesome npm packages for Noders. Feel free to Sta
 
 ## Table of Contents
 
-- [CLI](#CLI)
-- [CLI helpers](#CLI-helpers)
+- [CLI](#cli)
+- [CLI helpers](#cli-helpers)
 
 ## CLI
 - [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
