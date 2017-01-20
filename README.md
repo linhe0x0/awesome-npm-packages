@@ -22,26 +22,29 @@
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
 - [eslint-config-airbnb](https://github.com/airbnb/javascript) - Airbnb JavaScript 代码风格的 ESLint 配置文件。
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - 支持 websockets 的HTTP 代理库。
-- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
-- [bcryptjs](https://github.com/dcodeIO/bcrypt.js)
-- [md5-file](https://github.com/roryrjb/md5-file)
-- [markdown-it](https://github.com/markdown-it/markdown-it)
-- [marked](https://github.com/chjj/marked)
-- [nconf](https://github.com/indexzero/nconf)
-- [node-forge](https://github.com/digitalbazaar/forge)
-- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes)
-- [qr-image](https://github.com/alexeyten/qr-image)
-- [supertest](https://github.com/visionmedia/supertest)
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken 在 Node 中的实践方案。
+- [bcryptjs](https://github.com/dcodeIO/bcrypt.js) - 更好的 bcrypt 解决方案。
+- [md5-file](https://github.com/roryrjb/md5-file) - 让你更轻松的计算文件的 MD5。
+- [markdown-it](https://github.com/markdown-it/markdown-it) - 快速、易扩展的 Markdown 解析器。
+- [marked](https://github.com/chjj/marked) - 又一个全功能的 Markdown 解析器。
+- [nconf](https://github.com/indexzero/nconf) - 通过解析配置文件、环境变量、命令行参数让你轻松进行配置数据分层处理。
+- [node-forge](https://github.com/digitalbazaar/forge) - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
+- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
+- [qr-image](https://github.com/alexeyten/qr-image) - 二维码生成器。
+- [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
+- [socket.io](https://github.com/socketio/socket.io/) - 这可能是史上最强大的 socket 实现库了。
 
 ## 数据 Mock
 
 - [faker](https://github.com/Marak/Faker.js) - 让你在 Node 端和浏览器轻松构建大量用户信息的模拟数据。
-- [mock-fs](https://github.com/tschaub/mock-fs)
-- [mock-require](https://github.com/boblauer/mock-require)
+- [mock-fs](https://github.com/tschaub/mock-fs) - 通过复写 fs 原生模块在内存中达到 Mock 文件的目的。
+- [mock-require](https://github.com/boblauer/mock-require) - 轻松、直观的 Mock 任何你想要操作的模块。
 
 ## 网络服务框架
 
-- [express]()
+- [express](https://github.com/expressjs/express) - 极简、灵活的 web 应用开发框架，提供了一系列强大的特性，帮助你创建各种Web 和移动设备应用。
+- [koa](https://github.com/koajs/koa) - 由 express 原班人马打造的号称下一代的轻量级 web 应用开发框架。
+- [Meteor](https://github.com/meteor/meteor) - 用来开发实时网页程序的前后端同构框架。
 
 ## Express 中间件
 
@@ -51,8 +54,9 @@
 ## 命令行工具
 
 - [yarn](https://github.com/yarnpkg/yarn) - 快速、可靠和安全的依赖管理工具。
-- [puer](https://github.com/leeluolee/puer)
-- [istanbul](https://github.com/gotwarlost/istanbul)
+- [puer](https://github.com/leeluolee/puer) - 具有 web 服务、自动重载、Mock 数据等多种功能的前端开发效率提升工具。
+- [istanbul](https://github.com/gotwarlost/istanbul) - 测试代码覆盖率检测工具。
+- [nrm](https://github.com/Pana/nrm) - 非常方便的 NPM 源管理工具。
 
 ## 命令行开发辅助
 
@@ -61,7 +65,7 @@
 - [colors](https://github.com/Marak/colors.js) - 又一个给控制台中的字符添加颜色和样式的工具库。
 - [chokidar](https://github.com/paulmillr/chokidar) - 更好的 fs.watch / fs.watchFile 替代方案。
 - [glob](https://github.com/isaacs/node-glob) - 使用 shell 模式来匹配文件路径。
-- [mkdirp](https://github.com/substack/node-mkdirp)
+- [mkdirp](https://github.com/substack/node-mkdirp) - `mkdir -p` 命令的 Node 实现。
 - [ora](https://github.com/sindresorhus/ora)
 - [progress](https://github.com/visionmedia/node-progress)
 - [ssh2](https://github.com/mscdex/ssh2)
