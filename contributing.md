@@ -7,7 +7,7 @@
 ## 目录
 
 - [在列表中添加内容](#在列表中添加内容)
-- [更新你的 Pull Request](#更新你的-Pull-Request)
+- [更新你的 Pull Request](#更新你的-pull-request)
 
 ## 在列表中添加内容
 
