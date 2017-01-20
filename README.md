@@ -66,10 +66,10 @@
 - [chokidar](https://github.com/paulmillr/chokidar) - 更好的 fs.watch / fs.watchFile 替代方案。
 - [glob](https://github.com/isaacs/node-glob) - 使用 shell 模式来匹配文件路径。
 - [mkdirp](https://github.com/substack/node-mkdirp) - `mkdir -p` 命令的 Node 实现。
-- [ora](https://github.com/sindresorhus/ora)
-- [progress](https://github.com/visionmedia/node-progress)
-- [ssh2](https://github.com/mscdex/ssh2)
-- [yargs](https://github.com/yargs/yargs)
+- [ora](https://github.com/sindresorhus/ora) - 非常方便的实现终端 loading 动画效果。
+- [progress](https://github.com/visionmedia/node-progress) - 在终端实现的 ascii loading 效果，提供了丰富灵活的配置。
+- [ssh2](https://github.com/mscdex/ssh2) - SSH2 的客户端和服务端实现方案。
+- [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
 
 ## 贡献
 
