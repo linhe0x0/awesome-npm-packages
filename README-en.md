@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo is a curated list of awesome npm packages for Noders. Feel free to Star and Fork. Any comments, suggestions? Let us know. we love PRs and Issues :), please read the [contribution guidelines](contributing.md) first.
+This repo is a curated list of awesome npm packages for Noders. Feel free to Star and Fork. Any comments, suggestions? Let us know. we love PRs and Issues :), please read the [contribution guidelines](contributing-en.md) first.
 
 ## Table of Contents
 
@@ -18,6 +18,6 @@ This repo is a curated list of awesome npm packages for Noders. Feel free to Sta
 
 ## Contribute
 
-Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Please read the [contribution guidelines](contributing-en.md) first.
 
 [⬆ Top](#awesome-npm-packages)

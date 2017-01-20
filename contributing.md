@@ -1,37 +1,34 @@
-# Contribution Guidelines
+# 贡献指南
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+需要注意的是，这个项目基于 [Contributor Code of Conduct](code-of-conduct.md)。参与这个项目意味着你同意准守这些条款。
 
-**The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.**
+**任何 pull requeset 都必须有一个有用的标题。 任何以 `update README.md` 作为标题的 Pull requests 都会被立即关闭。为了更好的维护该项目，请仔细阅读以下内容：**
 
-## Table of Contents
+## 目录
 
-- [Adding to this list](#adding-to-this-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [在列表中添加内容](#在列表中添加内容)
+- [更新你的 Pull Request](#更新你的-Pull-Request)
 
-## Adding to this list
+## 在列表中添加内容
 
-Please ensure your pull request adheres to the following guidelines:
+在提交 pull request 之前请确保符合以下条件：
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- If you just created something, wait at least a couple of weeks before submitting.
-- You should of course have read or used the thing you're submitting.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[package](link) - Description`
-- Link additions should be added to the bottom of the relevant category.
-- Link to the GitHub repo, not npmjs.com.
-- Don't mention `Node.js` in the description as it's implied.
-- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
-- Don't start the description with A or An.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title and include a link to the package and why it should be included.
-- The body of your commit message should contain a link to the repository.
+- 在添加一个新的之前，请先在列表中搜索一下，以避免重复。
+- 如果要提交你自己创建的 package，请在提交之前等待数周以确保它成熟可用。
+- 请提交自己使用过或者研究过的 package。
+- 请针对每一个建议均发起一个独立的 pull request。
+- 请准守内容格式规范：`[package](链接) - 描述`
+- 每一个内容都必须添加在相关分类之下。
+- package 的链接应填写 GitHub 的相关地址，而不是 npmjs.com。
+- 对于已经存在的分类，欢迎提出改善意见或者添加新的分类，但是需要发起一个单独的 pull request。
+- 不需要在描述的前面加上诸如 `一个` 之类的词。
+- 请不要出现错别字或者拼写错误。
+- 确保文字行尾不要出现多余的空白符。
+- Pull request 需要包含一个有用的标题和 package 的链接。并简要描述下推荐理由。
+- 提交信息中需要包含一个 package 的 repo 链接。
 
-Thank you for your suggestions!
+非常感谢您的建议和反馈。
 
-## Updating your Pull Request
+## 更新你的 Pull Request
 
-A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+大多数时候，创建一个完全符合以上规则的 PR 是比较困难的。如果我们发现有需要调整的内容，会在 merge 之前要求你进行修改调整。如果你不知道该怎么做的话，[这里](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) 有一份如何更新一个 Pull Request 的操作指南。
