@@ -35,6 +35,10 @@
 - [qr-image](https://github.com/alexeyten/qr-image) - 二维码生成器。
 - [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
 - [socket.io](https://github.com/socketio/socket.io/) - 这可能是史上最强大的 socket 实现库了。
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台的发送系统原生通知的工具。
+- [validator](https://github.com/chriso/validator.js) - 字符串格式校验工具。
+- [connect](https://github.com/senchalabs/connect) - 使用中间件机制的可扩展的 HTTP 服务框架。
+- [passport](https://github.com/jaredhanson/passport) - 强大的用户身份验证中间件。
 
 ## 数据 Mock
 
@@ -50,8 +54,23 @@
 
 ## Express 中间件
 
-- [compression](https://github.com/expressjs/compression) - Express 官方开发的请求压缩中间件，支持 deflate、gzip 编码压缩。
+- [compression](https://github.com/expressjs/compression) - 请求压缩中间件，支持 deflate、gzip 编码压缩。
+- [body-parser](https://github.com/expressjs/body-parser) - 解析请求体的中间件。
+- [express-session](https://github.com/expressjs/session) -  session 管理中间件。
+- [cookie-parser](https://github.com/expressjs/cookie-parser) - 处理 Cookie 的中间件。
+- [cookie-session](https://github.com/expressjs/cookie-session) - 基于 Cookie 实现 session 管理的中间件。
+- [connect-timeout](https://github.com/expressjs/timeout) - 设置和管理请求超时时间的中间件。
+- [csurf](https://github.com/expressjs/csurf) -  [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) 中间件。
 - [cors](https://github.com/expressjs/cors) - 用于启用 [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) 的中间件。
+- [errorhandler](https://github.com/expressjs/errorhandler) - 用于开发环境处理错误信息的中间件。
+- [morgan](https://github.com/expressjs/morgan) - Http 请求日志中间件。
+- [response-time](https://github.com/expressjs/response-time) - 记录请求响应时间的中间件。
+- [serve-favicon](https://github.com/expressjs/serve-favicon) - favicon 服务中间节。
+- [serve-index](https://github.com/expressjs/serve-index) - 基于给定的路径渲染出目录列表。
+- [serve-static](https://github.com/expressjs/serve-static) - 提供静态文件服务。
+- [vhost](https://github.com/expressjs/vhost) - 很方便的域名处理中间节。
+- [express-validator](https://github.com/ctavan/express-validator) - 依赖 validator 工具库实现的 express 验证中间件。
+- [connect-redis](https://github.com/tj/connect-redis) - Redis session 存储中间件。
 
 ## Koa 中间件
 
