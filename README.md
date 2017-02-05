@@ -39,6 +39,8 @@
 - [validator](https://github.com/chriso/validator.js) - 字符串格式校验工具。
 - [connect](https://github.com/senchalabs/connect) - 使用中间件机制的可扩展的 HTTP 服务框架。
 - [passport](https://github.com/jaredhanson/passport) - 强大的用户身份验证中间件。
+- [dark-mode](https://github.com/sindresorhus/node-dark-mode) - 控制 macOS 的夜间模式状态。
+- [run-jxa](https://github.com/sindresorhus/run-jxa) - 在 macOS 平台上通过 osascript 运行指定脚本。
 
 ## 数据 Mock
 
