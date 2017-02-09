@@ -13,6 +13,7 @@
 - [网络服务框架](#网络服务框架)
 - [Express 中间件](#express-中间件)
 - [Koa 中间件](#koa-中间件)
+- [单元测试](#单元测试)
 - [命令行工具](#命令行工具)
 - [命令行开发辅助](#命令行开发辅助)
 
@@ -33,7 +34,6 @@
 - [node-forge](https://github.com/digitalbazaar/forge) - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
 - [qr-image](https://github.com/alexeyten/qr-image) - 二维码生成器。
-- [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
 - [socket.io](https://github.com/socketio/socket.io/) - 这可能是史上最强大的 socket 实现库了。
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台的发送系统原生通知的工具。
 - [validator](https://github.com/chriso/validator.js) - 字符串格式校验工具。
@@ -53,6 +53,7 @@
 - [express](https://github.com/expressjs/express) - 极简、灵活的 web 应用开发框架，提供了一系列强大的特性，帮助你创建各种Web 和移动设备应用。
 - [koa](https://github.com/koajs/koa) - 由 express 原班人马打造的号称下一代的轻量级 web 应用开发框架。
 - [Meteor](https://github.com/meteor/meteor) - 用来开发实时网页程序的前后端同构框架。
+- [egg](https://github.com/eggjs/egg/) - 阿里开源的为企业级框架和应用而生的服务端框架。
 
 ## Express 中间件
 
@@ -76,12 +77,57 @@
 
 ## Koa 中间件
 
+- [koa-router](https://github.com/alexmingoia/koa-router) - Express 风格的路由处理中间件。
+- [koa-static](https://github.com/koajs/static) - 静态文件服务中间件。
+- [koa-session](https://github.com/koajs/session) - 基于 cookie 的 session 中间件。
+- [koa-favicon](https://github.com/koajs/favicon) - favicon 服务中间件。
+- [koa-compress](https://github.com/koajs/compress) - 压缩中间件。
+- [koa-csrf](https://github.com/koajs/csrf) - CSRF tokens 中间件。
+- [koa-logger](https://github.com/koajs/logger) - 开发环境的日志记录中间件。
+- [koa-react-view](koa-react-view) - React 服务端渲染中间件。
+- [koa-redis](https://github.com/koajs/koa-redis) - 使用 Redis 持久话 session 的中间件。
+
+## 单元测试
+
+- [mocha](https://github.com/mochajs/mocha) - 简单、灵活、强大的 Node.js 单元测试框架。
+- [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
+- [istanbul](https://github.com/gotwarlost/istanbul) - 测试代码覆盖率检测工具。
+
 ## 命令行工具
 
+- [npm](https://github.com/npm/npm) - Node.js 包管理工具。
 - [yarn](https://github.com/yarnpkg/yarn) - 快速、可靠和安全的依赖管理工具。
 - [puer](https://github.com/leeluolee/puer) - 具有 web 服务、自动重载、Mock 数据等多种功能的前端开发效率提升工具。
-- [istanbul](https://github.com/gotwarlost/istanbul) - 测试代码覆盖率检测工具。
 - [nrm](https://github.com/Pana/nrm) - 非常方便的 NPM 源管理工具。
+- [gh-pages-deploy](https://github.com/meandavejustice/gh-pages-deploy) - 通过读取 package.json 里的配置自动发布内容到 gh-pages
+- [decheck](https://github.com/egoist/decheck) - 使用命令行查看一个 npm 模块的依赖项。
+- [coffee-script](https://github.com/jashkenas/coffeescript) - 一种采用优雅的语法并编译到 JavaScript 的小语种。
+- [commitizen](https://github.com/commitizen/cz-cli) - 让你轻松写成符合社区建议的 commit 格式的交互式工具。
+- [eslint](https://github.com/eslint/eslint) - Javascript 代码风格工具。
+- [express-generator](https://github.com/expressjs/generator) - [Express](https://github.com/expressjs/express) 应用目录生成器。
+- [koa-generator](https://github.com/17koa/koa-generator) - [Koa](https://github.com/koajs/koa) 应用目录生成器。
+- [fecs](https://github.com/ecomfe/fecs) - 百度出品的前端代码风格工具。
+- [font-spider](https://github.com/aui/font-spider) - 智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩。
+- [gifify](https://github.com/vvo/gifify) - 通过命令行将视频转换为 GIF 动态图片。
+- [gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook 的命令行工具。
+- [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - 在 commit 信息中使用 emojis 的交互式工具。
+- [gulp](https://github.com/gulpjs/gulp) - 基于流的前端自动化构建工具。
+- [hexo-cli](https://github.com/hexojs/hexo-cli) - 静态博客系统 Hexo 的命令行工具。
+- [ionic](https://github.com/driftyco/ionic-cli) - [Ionic](http://ionicframework.com/) 的命令行工具。
+- [mjml](https://github.com/mjmlio/mjml) - 轻松创建响应式邮件的命令行工具。
+- [ngrok](https://github.com/bubenshchykov/ngrok) - ngrok 2 的 Node 版。
+- [node-inspector](https://github.com/node-inspector/node-inspector) - 基于 Blink 开发者工具的 Node.js 应用调试器。
+- [nodemon](https://github.com/remy/nodemon) - 开发阶段的应用热重载工具。
+- [nodeppt](https://github.com/ksky521/nodePPT) - 功能强大的网页版演示库。
+- [npms-cli](https://github.com/npms-io/npms-cli) - 命令行版的 npm package 搜索器。
+- [placemat-cli](https://github.com/sqrthree/placemat) - 开发阶段获取随机图片进行网站占位。
+- [pm2](https://github.com/Unitech/pm2) - 强大的负载均衡和进程管理工具。
+- [slush](https://github.com/slushjs/slush) - 基于流的应用脚手架生成器。
+- [tldr](https://github.com/tldr-pages/tldr-node-client) - [tldr](https://github.com/tldr-pages/tldr) 的命令行工具。
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
+- [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
+- [webpack](https://github.com/webpack/webpack) - 前端模块构建器。
+- [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 
 ## 命令行开发辅助
 
