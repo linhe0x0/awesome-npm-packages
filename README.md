@@ -109,7 +109,6 @@
 - [gifify](https://github.com/vvo/gifify) - 通过命令行将视频转换为 GIF 动态图片。
 - [gitbook-cli](https://github.com/GitbookIO/gitbook-cli) - GitBook 的命令行工具。
 - [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - 在 commit 信息中使用 emojis 的交互式工具。
-- [gulp](https://github.com/gulpjs/gulp) - 基于流的前端自动化构建工具。
 - [hexo-cli](https://github.com/hexojs/hexo-cli) - 静态博客系统 Hexo 的命令行工具。
 - [ionic](https://github.com/driftyco/ionic-cli) - [Ionic](http://ionicframework.com/) 的命令行工具。
 - [mjml](https://github.com/mjmlio/mjml) - 轻松创建响应式邮件的命令行工具。
@@ -124,7 +123,6 @@
 - [tldr](https://github.com/tldr-pages/tldr-node-client) - [tldr](https://github.com/tldr-pages/tldr) 的命令行工具。
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
-- [webpack](https://github.com/webpack/webpack) - 前端模块构建器。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 
 ## 命令行开发辅助
@@ -142,7 +140,11 @@
 
 ## gulp 周边
 
+- [gulp](https://github.com/gulpjs/gulp) - 基于流的前端自动化构建工具。
+
 ## webpack 周边
+
+- [webpack](https://github.com/webpack/webpack) - 非常强大的前端模块构建器。
 
 ## 贡献
 
