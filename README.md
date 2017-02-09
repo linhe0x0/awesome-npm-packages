@@ -138,6 +138,7 @@
 - [progress](https://github.com/visionmedia/node-progress) - 在终端实现的 ascii loading 效果，提供了丰富灵活的配置。
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 的客户端和服务端实现方案。
 - [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
+- [cliparoo](https://github.com/tj/node-cliparoo) - 复制指定字符串到系统剪贴板。
 
 ## gulp 周边
 
