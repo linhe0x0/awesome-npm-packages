@@ -87,6 +87,7 @@
 ## 测试工具
 
 - [mocha](https://github.com/mochajs/mocha) - 简单、灵活、强大的 Node.js 单元测试框架。
+- [ava](https://github.com/avajs/ava) - 面向未来的 Javascript 单元测试框架。
 - [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
 - [istanbul](https://github.com/gotwarlost/istanbul) - 测试代码覆盖率检测工具。
 - [faker](https://github.com/Marak/Faker.js) - 让你在 Node 端和浏览器轻松构建大量用户信息的模拟数据。
