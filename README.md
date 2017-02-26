@@ -42,6 +42,8 @@
 - [passport](https://github.com/jaredhanson/passport) - 强大的用户身份验证中间件。
 - [dark-mode](https://github.com/sindresorhus/node-dark-mode) - 控制 macOS 的夜间模式状态。
 - [run-jxa](https://github.com/sindresorhus/run-jxa) - 在 macOS 平台上通过 osascript 运行指定脚本。
+- [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
+- [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
 
 ## 网络服务框架
 
@@ -141,14 +143,39 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 的客户端和服务端实现方案。
 - [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
 - [cliparoo](https://github.com/tj/node-cliparoo) - 复制指定字符串到系统剪贴板。
+- [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
 
 ## gulp 周边
 
 - [gulp](https://github.com/gulpjs/gulp) - 基于流的前端自动化构建工具。
+- [gulp-changed](https://github.com/sindresorhus/gulp-changed) - 通过比较源文件和生成文件来实现 Gulp 的增量编译。
+- [gulp-cached](https://github.com/contra/gulp-cached) - 通过在内存中缓存文件和内容来实现 Gulp 的增量编译。
+- [gulp-remember](https://github.com/ahaurw01/gulp-remember) - 同样在内存中缓存所有文件来实现 Gulp 的增量编译，和 gulp-cached 搭配使用效果更好。
+- [gulp-newer](https://github.com/tschaub/gulp-newer) - 同样通过比较源文件和生成文件来实现 Gulp 的增量编译。
+- [gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages) - 使用 Gulp 自动部署内容到 GitHub pages。
+- [gulp-yaml](https://github.com/crissdev/gulp-yaml) - 将 [YAML](http://en.wikipedia.org/wiki/YAML) 文件转化为 [JSON](https://en.wikipedia.org/wiki/JSON) 的工具。
+- [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - 在 Gulp 中自动进行图片压缩。
+- [gulp-imageisux](https://github.com/targetkiller/gulp-imageisux) - [智图](http://zhitu.isux.us/) 的 Gulp 插件。
+- [gulp-lazyimagecss](https://github.com/weixin/gulp-lazyimagecss) - 高效地书写 CSS 必备，自动生成图片CSS属性，如：width & height 等。
+- [gulp-svg-inline](https://github.com/weixin/gulp-svg-inline) - 内联 svg 文件到 CSS。
+- [gulp-cssnano](https://github.com/ben-eb/gulp-cssnano) - 在 Gulp 中使用 cssnano 进行 CSS 压缩。
+- [gulp-postcss](https://github.com/postcss/gulp-postcss) - 在 Gulp 中使用 [PostCSS](https://github.com/postcss/postcss)。
+- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) - 在 Gulp 中使用 Autoprefixer 进行 CSS 前缀自动补全。
+- [gulp-babel](https://github.com/babel/gulp-babel) - [Babel](https://babeljs.io/) 的 Gulp 插件。
+- [gulp-if](https://github.com/robrich/gulp-if) - 有条件的运行任务。
+- [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - 使用 UglifyJS2 来压缩 JS 文件。
+- [gulp-less](https://github.com/plus3network/gulp-less) - LESS 编译插件。
+- [gulp-rename](https://github.com/hparra/gulp-rename) - 让你很容易的重命名一些文件。
+- [gulp-replace](https://github.com/lazd/gulp-replace) - 一个字符串替换的 Gulp 插件。
+- [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass 编译插件。
+- [gulp-util](https://github.com/gulpjs/gulp-util) - 提供了一系列实用性工具的插件。
+- [gulp-webp](https://github.com/sindresorhus/gulp-webp) - 将图片转化为 [WebP](https://developers.google.com/speed/webp/) 格式。
+- [gulp-zip](https://github.com/sindresorhus/gulp-zip) - 将文件压缩为 ZIP 格式。
 
 ## webpack 周边
 
 - [webpack](https://github.com/webpack/webpack) - 非常强大的前端模块构建器。
+- [webpack-stream](https://github.com/shama/webpack-stream) 以流的方式运行 [webpack](https://github.com/webpack/webpack) 使其很方便的与 [gulp](https://github.com/gulpjs/gulp) 进行集成。
 
 ## 贡献
 
