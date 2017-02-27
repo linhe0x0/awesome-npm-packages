@@ -46,6 +46,8 @@
 - [run-jxa](https://github.com/sindresorhus/run-jxa) - 在 macOS 平台上通过 osascript 运行指定脚本。
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 - [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
+- [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
+- [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 
 ## 网络服务框架
 
