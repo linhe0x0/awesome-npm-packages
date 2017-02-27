@@ -186,6 +186,7 @@
 
 - [webpack](https://github.com/webpack/webpack) - 非常强大的前端模块构建器。
 - [webpack-stream](https://github.com/shama/webpack-stream) 以流的方式运行 [webpack](https://github.com/webpack/webpack) 使其很方便的与 [gulp](https://github.com/gulpjs/gulp) 进行集成。
+- [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并多个 webpack 配置参数。
 
 ## 贡献
 
