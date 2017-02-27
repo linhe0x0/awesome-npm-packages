@@ -52,6 +52,7 @@
 - [express](https://github.com/expressjs/express) - 极简、灵活的 web 应用开发框架，提供了一系列强大的特性，帮助你创建各种Web 和移动设备应用。
 - [koa](https://github.com/koajs/koa) - 由 express 原班人马打造的号称下一代的轻量级 web 应用开发框架。
 - [Meteor](https://github.com/meteor/meteor) - 用来开发实时网页程序的前后端同构框架。
+- [hapi](https://github.com/hapijs/hapi) - 简单易用、以配置为中心的 web 服务框架。
 - [egg](https://github.com/eggjs/egg/) - 阿里开源的为企业级框架和应用而生的服务端框架。
 - [micro](https://github.com/zeit/micro) - 轻量级的微服务框架。
 
