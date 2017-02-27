@@ -49,6 +49,7 @@
 - [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
 - [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 - [sequelize](https://github.com/sequelize/sequelize) - 简单易用、支持多 SQL 语言的 ORM 实现。
+- [opn](https://github.com/sindresorhus/opn) - 跨平台的打开指定文件或者网站的小工具。
 
 ## 网络服务框架
 
