@@ -61,6 +61,7 @@
 - [hapi](https://github.com/hapijs/hapi) - 简单易用、以配置为中心的 web 服务框架。
 - [egg](https://github.com/eggjs/egg/) - 阿里开源的为企业级框架和应用而生的服务端框架。
 - [micro](https://github.com/zeit/micro) - 轻量级的微服务框架。
+- [restify](https://github.com/restify/node-restify) - 专注于构建 REST API 服务的轻量级服务端框架。
 
 ## Express 中间件
 
