@@ -52,6 +52,8 @@
 - [opn](https://github.com/sindresorhus/opn) - 跨平台的打开指定文件或者网站的小工具。
 - [rabbit.js](https://github.com/squaremo/rabbit.js) - 在 Node.JS 中使用 RabbitMQ 队列服务。
 - [kue](https://github.com/Automattic/kue) - 基于 [redis](http://redis.io/) 实现的 消息队列服务。
+- [request](https://github.com/request/request) - 简单、强大的 HTTP 请求库。
+- [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
 
 ## 网络服务框架
 
