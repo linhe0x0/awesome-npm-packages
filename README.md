@@ -159,6 +159,7 @@
 - [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
 - [cliparoo](https://github.com/tj/node-cliparoo) - 复制指定字符串到系统剪贴板。
 - [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
+- [execa](https://github.com/sindresorhus/execa) - 更好用的 `child_process` 替代方案。
 
 ## React 周边
 
