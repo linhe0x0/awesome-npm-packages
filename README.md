@@ -27,7 +27,7 @@
 - [underscore](https://github.com/jashkenas/underscore) - 跟 lodash 类似，提供了一系列有用的辅助函数。
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
 - [eslint-config-airbnb](https://github.com/airbnb/javascript) - Airbnb JavaScript 代码风格的 ESLint 配置文件。
-- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - 支持 websockets 的HTTP 代理库。
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - 支持 websockets 的 HTTP 代理库。
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken 在 Node 中的实践方案。
 - [bcryptjs](https://github.com/dcodeIO/bcrypt.js) - 更好的 bcrypt 解决方案。
 - [md5-file](https://github.com/roryrjb/md5-file) - 让你更轻松的计算文件的 MD5。
