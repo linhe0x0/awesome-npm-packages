@@ -23,7 +23,6 @@
 
 ## 工具库
 
-- [hamburgers](https://github.com/jonsuh/hamburgers) - 使用 CSS 制作的各种 hamburger 动画图标。
 - [lodash](https://github.com/lodash/lodash) - 具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
 - [underscore](https://github.com/jashkenas/underscore) - 跟 lodash 类似，提供了一系列有用的辅助函数。
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
@@ -200,6 +199,7 @@
 
 ## CSS 相关
 
+- [hamburgers](https://github.com/jonsuh/hamburgers) - 使用 CSS 制作的各种 hamburger 动画图标。
 - [gutenberg-css](https://github.com/BafS/Gutenberg) - 提供了一系列仅在打印时才会加载的样式来优化专用于打印时的格式显示。
 
 ## 贡献
