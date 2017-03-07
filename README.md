@@ -120,7 +120,9 @@
 - [rewire](https://github.com/jhnns/rewire) - 对指定模块的私有成员进行单元测试。
 - [chai](https://github.com/chaijs/chai) - 兼容所有测试框架的跨平台 BDD / TDD 风格断言库，支持 Node.js 和浏览器。
 - [should](https://github.com/shouldjs/should.js) - BDD 风格的断言库。
-- [expect.js](https://github.com/Automattic/expect.js) - 基于 [should](https://github.com/shouldjs/should.js) 的 BDD 风格断言库
+- [expect.js](https://github.com/Automattic/expect.js) - 基于 [should](https://github.com/shouldjs/should.js) 的 BDD 风格断言库。
+- [tempfile](https://github.com/sindresorhus/tempfile) - 获取随机的临时文件路径。
+- [temp-write](https://github.com/sindresorhus/temp-write) - 将字符串 / buffer / stream 写入随机的临时文件中。
 
 ## 命令行工具
 
