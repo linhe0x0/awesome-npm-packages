@@ -113,6 +113,10 @@
 - [faker](https://github.com/Marak/Faker.js) - 让你在 Node 端和浏览器轻松构建大量用户信息的模拟数据。
 - [mock-fs](https://github.com/tschaub/mock-fs) - 通过复写 fs 原生模块在内存中达到 Mock 文件的目的。
 - [mock-require](https://github.com/boblauer/mock-require) - 轻松、直观的 Mock 任何你想要操作的模块。
+- [rewire](https://github.com/jhnns/rewire) - 对指定模块的私有成员进行单元测试。
+- [chai](https://github.com/chaijs/chai) - 兼容所有测试框架的跨平台 BDD / TDD 风格断言库，支持 Node.js 和浏览器。
+- [should](https://github.com/shouldjs/should.js) - BDD 风格的断言库。
+- [expect.js](https://github.com/Automattic/expect.js) - 基于 [should](https://github.com/shouldjs/should.js) 的 BDD 风格断言库
 
 ## 命令行工具
 
