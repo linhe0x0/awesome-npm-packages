@@ -55,6 +55,7 @@
 - [request](https://github.com/request/request) - 简单、强大的 HTTP 请求库。
 - [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
 - [path-exists](https://github.com/sindresorhus/path-exists) - 检测指定的路径是否存在。
+- [conf](https://github.com/sindresorhus/conf) - 让你非常容易的对应用或模块做配置处理。
 
 ## 网络服务框架
 
