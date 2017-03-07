@@ -57,6 +57,7 @@
 - [path-exists](https://github.com/sindresorhus/path-exists) - 检测指定的路径是否存在。
 - [conf](https://github.com/sindresorhus/conf) - 让你非常容易的对应用或模块做配置处理。
 - [axios](https://github.com/mzabriskie/axios) - 能够同时用于浏览器端和 Node.js 端的基于 Promise 的 HTTP 客户端。
+- [uuid](https://github.com/kelektiv/node-uuid) - 生成符合 RFC 规范的 UUID。
 
 ## 网络服务框架
 
