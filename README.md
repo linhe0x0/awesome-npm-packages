@@ -108,8 +108,9 @@
 
 - [mocha](https://github.com/mochajs/mocha) - 简单、灵活、强大的 Node.js 单元测试框架。
 - [ava](https://github.com/avajs/ava) - 面向未来的 Javascript 单元测试框架。
-- [supertest](https://github.com/visionmedia/supertest) - 用来测试 HTTP 服务的一款非常强大的测试工具。
+- [supertest](https://github.com/visionmedia/supertest) - 专注测试 HTTP 服务的一款非常强大的测试工具。
 - [istanbul](https://github.com/gotwarlost/istanbul) - 测试代码覆盖率检测工具。
+- [nyc](https://github.com/istanbuljs/nyc) - 支持 [ava](https://github.com/avajs/ava) 的 [istanbul](https://github.com/gotwarlost/istanbul) 风格测试代码覆盖率检测工具。
 - [faker](https://github.com/Marak/Faker.js) - 让你在 Node 端和浏览器轻松构建大量用户信息的模拟数据。
 - [mock-fs](https://github.com/tschaub/mock-fs) - 通过复写 fs 原生模块在内存中达到 Mock 文件的目的。
 - [mock-require](https://github.com/boblauer/mock-require) - 轻松、直观的 Mock 任何你想要操作的模块。
