@@ -54,6 +54,7 @@
 - [kue](https://github.com/Automattic/kue) - 基于 [redis](http://redis.io/) 实现的 消息队列服务。
 - [request](https://github.com/request/request) - 简单、强大的 HTTP 请求库。
 - [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
+- [path-exists](https://github.com/sindresorhus/path-exists) - 检测指定的路径是否存在。
 
 ## 网络服务框架
 
@@ -186,25 +187,4 @@
 - [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - 使用 UglifyJS2 来压缩 JS 文件。
 - [gulp-less](https://github.com/plus3network/gulp-less) - LESS 编译插件。
 - [gulp-rename](https://github.com/hparra/gulp-rename) - 让你很容易的重命名一些文件。
-- [gulp-replace](https://github.com/lazd/gulp-replace) - 一个字符串替换的 Gulp 插件。
-- [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass 编译插件。
-- [gulp-util](https://github.com/gulpjs/gulp-util) - 提供了一系列实用性工具的插件。
-- [gulp-webp](https://github.com/sindresorhus/gulp-webp) - 将图片转化为 [WebP](https://developers.google.com/speed/webp/) 格式。
-- [gulp-zip](https://github.com/sindresorhus/gulp-zip) - 将文件压缩为 ZIP 格式。
-
-## webpack 周边
-
-- [webpack](https://github.com/webpack/webpack) - 非常强大的前端模块构建器。
-- [webpack-stream](https://github.com/shama/webpack-stream) 以流的方式运行 [webpack](https://github.com/webpack/webpack) 使其很方便的与 [gulp](https://github.com/gulpjs/gulp) 进行集成。
-- [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并多个 webpack 配置参数。
-
-## CSS 相关
-
-- [hamburgers](https://github.com/jonsuh/hamburgers) - 使用 CSS 制作的各种 hamburger 动画图标。
-- [gutenberg-css](https://github.com/BafS/Gutenberg) - 提供了一系列仅在打印时才会加载的样式来优化专用于打印时的格式显示。
-
-## 贡献
-
-非常欢迎您的参与，请在参与之前阅读 [贡献指南](contributing.md) 以更好的协作。
-
-[⬆ 返回顶部](#awesome-npm-packages)
+- [gulp-replace](https://github.com/lazd/gulp-replace) - 一个字符串替换
