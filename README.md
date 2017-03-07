@@ -58,6 +58,9 @@
 - [conf](https://github.com/sindresorhus/conf) - 让你非常容易的对应用或模块做配置处理。
 - [axios](https://github.com/mzabriskie/axios) - 能够同时用于浏览器端和 Node.js 端的基于 Promise 的 HTTP 客户端。
 - [uuid](https://github.com/kelektiv/node-uuid) - 生成符合 RFC 规范的 UUID。
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - 添加了很多原生 fs 模块中没有但实用的方法。
+- [mkdirp](https://github.com/substack/node-mkdirp) - Shell 命令 `mkdir -p` 的实现。
+- [del](https://github.com/sindresorhus/del) - 删除指定的文件或目录。
 
 ## 网络服务框架
 
