@@ -157,6 +157,8 @@
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
+- [update-notifier](https://github.com/yeoman/update-notifier) - 以非侵入性的方式检查您的包是否需要更新并自动通知用户。
+
 
 ## 命令行开发工具库
 
