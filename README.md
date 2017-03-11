@@ -96,6 +96,7 @@
 
 - [koa-router](https://github.com/alexmingoia/koa-router) - Express 风格的路由处理中间件。
 - [koa-static](https://github.com/koajs/static) - 静态文件服务中间件。
+- [koa-static-cache](https://github.com/koajs/static-cache) - 静态文件缓存中间件。
 - [koa-session](https://github.com/koajs/session) - 基于 cookie 的 session 中间件。
 - [koa-favicon](https://github.com/koajs/favicon) - favicon 服务中间件。
 - [koa-compress](https://github.com/koajs/compress) - 压缩中间件。
