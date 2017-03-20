@@ -117,6 +117,7 @@
 - [koa-jwt](https://github.com/koajs/jwt) - JSON Web Tokens 验证中间件。
 - [koa-multer](https://github.com/koa-modules/multer) - 响应 `multipart/form-data` 的中间件。
 - [koa-locales](https://github.com/koajs/locales) - 实现多语言支持的中间件。
+- [koa-markdown](https://github.com/koajs/koa-markdown) - 自动转化 Markdown 文件为 HTML 文件的中间件。
 
 ## 测试工具
 
