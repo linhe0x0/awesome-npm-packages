@@ -115,6 +115,7 @@
 - [koa-ratelimit](https://github.com/koajs/ratelimit) -请求频率限制中间件。
 - [koa-jwt](https://github.com/koajs/jwt) - JSON Web Tokens 验证中间件。
 - [koa-multer](https://github.com/koa-modules/multer) - 响应 `multipart/form-data` 的中间件。
+- [koa-locales](https://github.com/koajs/locales) - 实现多语言支持的中间件。
 
 ## 测试工具
 
