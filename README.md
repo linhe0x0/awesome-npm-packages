@@ -15,10 +15,12 @@
 - [测试工具](#测试工具)
 - [命令行工具](#命令行工具)
 - [命令行开发工具库](#命令行开发工具库)
+- [JS 库](#js-库)
 - [React 周边](#react-周边)
 - [Vue 周边](#vue-周边)
-- [gulp 周边](#gulp-周边)
 - [webpack 周边](#webpack-周边)
+- [babel 周边](#babel-周边)
+- [gulp 周边](#gulp-周边)
 - [CSS 相关](#css-相关)
 
 ## 工具库
@@ -26,6 +28,8 @@
 - [lodash](https://github.com/lodash/lodash) - 具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
 - [underscore](https://github.com/jashkenas/underscore) - 跟 lodash 类似，提供了一系列有用的辅助函数。
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
+- [eslint](https://github.com/eslint/eslint) - 功能强大的 JavaScript 代码风格检查报告工具。
+- [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - 以一种更加友好（指出文件和行号）的方式反馈 [eslint](https://github.com/eslint/eslint) 的错误。
 - [eslint-config-airbnb](https://github.com/airbnb/javascript) - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+ 和 React。
 - [eslint-config-airbnb-base](https://github.com/airbnb/javascript) - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+。
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - 支持 websockets 的 HTTP 代理库。
@@ -182,9 +186,54 @@
 - [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
 - [execa](https://github.com/sindresorhus/execa) - 更好用的 `child_process` 替代方案。
 
+## 前端 JS 库
+
+- [rxjs](https://github.com/ReactiveX/RxJS) - 大名鼎鼎的 Reactive 反应式编程的 JS 实现。
+
 ## React 周边
 
+- [react](https://github.com/facebook/react) - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架。
+- [react-dom](https://github.com/facebook/react) - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架 React 的 DOM 端。
+- [redux](https://github.com/reactjs/redux) - 可预测的 JavaScript 应用程序的状态管理容器。
+- [react-redux](https://github.com/reactjs/react-redux) - [Redux](https://github.com/reactjs/redux) 官方实现的绑定至 React 库。
+- [react-router-dom](https://github.com/reacttraining/react-router) - 为 [react](https://github.com/facebook/react) 而生的声明式路由库。
+- [react-router-config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config) - React Router 的静态路由配置助手。
+- [react-router-redux](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) - 将你的应用状态和路由保持同步。
+- [redux-observable](https://github.com/redux-observable/redux-observable) - 在 [redux](https://github.com/reactjs/redux) 中使用 RxJS 的中间件。
+
 ## Vue 周边
+
+## webpack 周边
+
+- [webpack](https://github.com/webpack/webpack) - 目前为止最强大的 JS 模块加载器。
+- [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin) - 在 [webpack](https://github.com/webpack/webpack) 中执行复制文件和文件夹的任务。
+- [css-loader](https://github.com/webpack-contrib/css-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的 CSS 加载器。
+- [eslint-loader](https://github.com/MoOx/eslint-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的 eslint 加载器。
+- [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) - 从文件中提取特定的内容。
+- [file-loader](https://github.com/webpack-contrib/file-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的文件加载器。
+- [friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - 非常好用的改善 [webpack](https://github.com/webpack/webpack) 的错误提醒插件。
+- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - 自动创建 HTMl 文件供 [webpack](https://github.com/webpack/webpack) 打包使用。
+- [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) - CSS 静态资源压缩、最小化的插件。
+- [pug-loader](https://github.com/pugjs/pug-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的模板引擎 pug 加载器。
+- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - React 组件热重载插件。
+- [sass-loader](https://github.com/webpack-contrib/sass-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的 Sass 加载器。
+- [less-loader](https://github.com/webpack-contrib/less-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的 Less 加载器。
+- [style-loader](https://github.com/webpack-contrib/style-loader) - 将 CSS 样式添加至 style 标签中。
+- [url-loader](https://github.com/webpack-contrib/url-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的静态资源 URL 服务加载器。
+- [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - 非常实用的 [webpack](https://github.com/webpack/webpack) 构建分析器。
+- [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - [webpack](https://github.com/webpack/webpack) 开发服务器中间间。
+- [webpack-hot-middleware](https://github.com/glenjamin/webpack-hot-middleware) - [webpack](https://github.com/webpack/webpack) 热重载中间间。
+- [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并多个 [webpack](https://github.com/webpack/webpack) 配置参数。
+
+## babel 周边
+
+- [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) - babel 核心实现。
+- [babel-loader](https://github.com/babel/babel-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的 babel 加载器。
+- [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015) - 编译 ES2015 的 babel 插件。
+- [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - 编译 React 的 babel 插件。
+- [babel-preset-stage-1](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1) - 编译 ES stage 1 阶段的 babel 插件。
+- [babel-preset-stage-2](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) - 编译 ES stage 2 阶段的 babel 插件。
+- [babel-preset-stage-3](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3) - 编译 ES stage 3 阶段的 babel 插件。
 
 ## gulp 周边
 
@@ -208,3 +257,7 @@
 - [gulp-less](https://github.com/plus3network/gulp-less) - LESS 编译插件。
 - [gulp-rename](https://github.com/hparra/gulp-rename) - 让你很容易的重命名一些文件。
 - [gulp-replace](https://github.com/lazd/gulp-replace) - 一个字符串替换
+
+## CSS 相关
+
+- [hamburgers](https://github.com/jonsuh/hamburgers) - 使用 CSS 制作的各种 hamburger 动画图标。
