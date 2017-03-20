@@ -110,7 +110,7 @@
 - [koa-csrf](https://github.com/koajs/csrf) - CSRF tokens 中间件。
 - [koa-logger](https://github.com/koajs/logger) - 开发环境的日志记录中间件。
 - [koa-react-view](koa-react-view) - React 服务端渲染中间件。
-- [koa-redis](https://github.com/koajs/koa-redis) - 使用 Redis 持久话 session 的中间件。
+- [koa-redis](https://github.com/koajs/koa-redis) - 使用 Redis 持久化 session 的中间件。
 - [koa-bodyparser](https://github.com/koajs/bodyparser) - 请求体内容解析中间件。
 - [koa-ratelimit](https://github.com/koajs/ratelimit) -请求频率限制中间件。
 - [koa-jwt](https://github.com/koajs/jwt) - JSON Web Tokens 验证中间件。
