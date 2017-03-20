@@ -67,6 +67,7 @@
 - [mkdirp](https://github.com/substack/node-mkdirp) - Shell 命令 `mkdir -p` 的实现。
 - [del](https://github.com/sindresorhus/del) - 删除指定的文件或目录。
 - [busboy](https://github.com/mscdex/busboy) - 响应 HTML 表单数据的流解析器。
+- [mongoose](https://github.com/Automattic/mongoose) - 基于异步环境的 MongoDB 对象模型设计库。
 
 ## 网络服务框架
 
