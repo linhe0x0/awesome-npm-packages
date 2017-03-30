@@ -69,6 +69,7 @@
 - [del](https://github.com/sindresorhus/del) - 删除指定的文件或目录。
 - [busboy](https://github.com/mscdex/busboy) - 响应 HTML 表单数据的流解析器。
 - [mongoose](https://github.com/Automattic/mongoose) - 基于异步环境的 MongoDB 对象模型设计库。
+- [semver](https://github.com/npm/node-semver) - semver 语义化版本号解析器。
 
 ## 网络服务框架
 
