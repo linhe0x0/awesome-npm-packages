@@ -70,6 +70,9 @@
 - [busboy](https://github.com/mscdex/busboy) - 响应 HTML 表单数据的流解析器。
 - [mongoose](https://github.com/Automattic/mongoose) - 基于异步环境的 MongoDB 对象模型设计库。
 - [semver](https://github.com/npm/node-semver) - semver 语义化版本号解析器。
+- [debug](https://github.com/visionmedia/debug) - 轻量级的兼容 Node 和浏览器环境的 debug log 管理工具。
+- [log4js](https://github.com/nomiddlename/log4js-node) - 功能强大的日志管理工具，灵活适应多个环境。
+- [pino](https://github.com/pinojs/pino) - 拥有极高性能的日志分类管理的工具。
 
 ## 网络服务框架
 
