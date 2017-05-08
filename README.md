@@ -73,6 +73,7 @@
 - [debug](https://github.com/visionmedia/debug) - 轻量级的兼容 Node 和浏览器环境的 debug log 管理工具。
 - [log4js](https://github.com/nomiddlename/log4js-node) - 功能强大的日志管理工具，灵活适应多个环境。
 - [pino](https://github.com/pinojs/pino) - 拥有极高性能的日志分类管理的工具。
+- [node-emoji](https://github.com/omnidan/node-emoji) - ✨ 在 Node.js 环境中使用 emoji 表情。
 
 ## 网络服务框架
 
