@@ -74,6 +74,8 @@
 - [log4js](https://github.com/nomiddlename/log4js-node) - 功能强大的日志管理工具，灵活适应多个环境。
 - [pino](https://github.com/pinojs/pino) - 拥有极高性能的日志分类管理的工具。
 - [node-emoji](https://github.com/omnidan/node-emoji) - ✨ 在 Node.js 环境中使用 emoji 表情。
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - 文件系统模块的替代模块，优化了很多原生模块的不足。
+- [lockfile](https://github.com/npm/lockfile) - 轻量级的添加文件锁的实用工具。
 
 ## 网络服务框架
 
