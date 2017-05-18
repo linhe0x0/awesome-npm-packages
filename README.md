@@ -178,7 +178,6 @@
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 
-
 ## 命令行开发工具库
 
 - [commander](https://github.com/tj/commander.js) - 开发命令行工具的完整解决方案。
@@ -203,6 +202,7 @@
 - [path-type](https://github.com/sindresorhus/path-type) - 检测指定的路径是否是文件、目录的工具库。
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建出盒子（矩形）。
 - [dargs](https://github.com/sindresorhus/dargs) - 将对象反向序列化为命令行参数形式的数组。
+- [detect-port](https://github.com/node-modules/detect-port) - 端口检测器。
 
 ## 前端 JS 库
 
