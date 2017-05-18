@@ -41,6 +41,7 @@
 - [nconf](https://github.com/indexzero/nconf) - 通过解析配置文件、环境变量、命令行参数让你轻松进行配置数据分层处理。
 - [node-forge](https://github.com/digitalbazaar/forge) - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
+- [filesize](https://github.com/avoidwork/filesize.js) - 同样将文件大小格式的字符串转换成人类易读的字符串的工具。
 - [qr-image](https://github.com/alexeyten/qr-image) - 二维码生成器。
 - [socket.io](https://github.com/socketio/socket.io/) - 这可能是史上最强大的 socket 实现库了。
 - [validator](https://github.com/chriso/validator.js) - 字符串格式校验工具。
