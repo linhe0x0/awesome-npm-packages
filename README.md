@@ -43,7 +43,6 @@
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
 - [qr-image](https://github.com/alexeyten/qr-image) - 二维码生成器。
 - [socket.io](https://github.com/socketio/socket.io/) - 这可能是史上最强大的 socket 实现库了。
-- [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台的发送系统原生通知的工具。
 - [validator](https://github.com/chriso/validator.js) - 字符串格式校验工具。
 - [connect](https://github.com/senchalabs/connect) - 使用中间件机制的可扩展的 HTTP 服务框架。
 - [passport](https://github.com/jaredhanson/passport) - 强大的用户身份验证中间件。
@@ -51,8 +50,6 @@
 - [run-jxa](https://github.com/sindresorhus/run-jxa) - 在 macOS 平台上通过 osascript 运行指定脚本。
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 - [csv](https://github.com/wdavidw/node-csv) - 简洁而又功能强大的 CSV 格式解析器。
-- [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
-- [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 - [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
 - [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 - [sequelize](https://github.com/sequelize/sequelize) - 简单易用、支持多 SQL 语言的 ORM 实现。
@@ -198,6 +195,9 @@
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - 提供跨平台级的剪贴板操作支持。
 - [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
 - [execa](https://github.com/sindresorhus/execa) - 更好用的 `child_process` 替代方案。
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台的发送系统原生通知的工具。
+- [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
+- [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 
 ## 前端 JS 库
 
