@@ -195,6 +195,7 @@
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 的客户端和服务端实现方案。
 - [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
 - [cliparoo](https://github.com/tj/node-cliparoo) - 复制指定字符串到系统剪贴板。
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - 提供跨平台级的剪贴板操作支持。
 - [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
 - [execa](https://github.com/sindresorhus/execa) - 更好用的 `child_process` 替代方案。
 
