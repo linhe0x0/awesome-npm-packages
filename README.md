@@ -175,7 +175,6 @@
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
-- [update-notifier](https://github.com/yeoman/update-notifier) - 以非侵入性的方式检查您的包是否需要更新并自动通知用户。
 
 
 ## 命令行开发工具库
@@ -198,6 +197,7 @@
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台的发送系统原生通知的工具。
 - [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
 - [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
+- [update-notifier](https://github.com/yeoman/update-notifier) - 以非侵入性的方式检查您的包是否需要更新并自动通知用户。
 
 ## 前端 JS 库
 
