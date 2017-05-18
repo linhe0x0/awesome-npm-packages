@@ -200,6 +200,7 @@
 - [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
 - [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 - [update-notifier](https://github.com/yeoman/update-notifier) - 以非侵入性的方式检查您的包是否需要更新并自动通知用户。
+- [path-type](https://github.com/sindresorhus/path-type) - 检测指定的路径是否是文件、目录的工具库。
 
 ## 前端 JS 库
 
