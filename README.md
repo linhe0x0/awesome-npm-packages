@@ -52,6 +52,7 @@
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 - [csv](https://github.com/wdavidw/node-csv) - 简洁而又功能强大的 CSV 格式解析器。
 - [quick-local-ip](https://github.com/aloksguha/myip) - 快速获取本机 ip 的小工具。
+- [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 - [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
 - [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 - [sequelize](https://github.com/sequelize/sequelize) - 简单易用、支持多 SQL 语言的 ORM 实现。
@@ -86,7 +87,6 @@
 - [egg](https://github.com/eggjs/egg/) - 阿里开源的为企业级框架和应用而生的服务端框架。
 - [micro](https://github.com/zeit/micro) - 轻量级的微服务框架。
 - [restify](https://github.com/restify/node-restify) - 专注于构建 REST API 服务的轻量级服务端框架。
-- [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 
 ## Express 中间件
 
