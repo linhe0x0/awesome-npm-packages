@@ -86,6 +86,7 @@
 - [egg](https://github.com/eggjs/egg/) - 阿里开源的为企业级框架和应用而生的服务端框架。
 - [micro](https://github.com/zeit/micro) - 轻量级的微服务框架。
 - [restify](https://github.com/restify/node-restify) - 专注于构建 REST API 服务的轻量级服务端框架。
+- [ip](https://github.com/indutny/node-ip) - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 
 ## Express 中间件
 
