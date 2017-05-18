@@ -75,6 +75,7 @@
 - [node-emoji](https://github.com/omnidan/node-emoji) - ✨ 在 Node.js 环境中使用 emoji 表情。
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - 文件系统模块的替代模块，优化了很多原生模块的不足。
 - [lockfile](https://github.com/npm/lockfile) - 轻量级的添加文件锁的实用工具。
+- [mime-types](https://github.com/jshttp/mime-types) - 根据文件类型判断其 content-type。
 
 ## 网络服务框架
 
