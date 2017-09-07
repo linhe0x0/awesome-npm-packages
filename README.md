@@ -207,6 +207,7 @@
 ## 前端 JS 库
 
 - [rxjs](https://github.com/ReactiveX/RxJS) - 大名鼎鼎的 Reactive 反应式编程的 JS 实现。
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) - 这可能是最好用的复制到剪贴板的工具库了。
 
 ## React 周边
 
