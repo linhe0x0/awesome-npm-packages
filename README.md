@@ -182,6 +182,8 @@
 
 - [commander](https://github.com/tj/commander.js) - 开发命令行工具的完整解决方案。
 - [caporal](https://github.com/mattallty/Caporal.js) - 特性全面的开发命令行工具框架。
+- [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
+- [args](https://github.com/leo/args) - 开发命令行工具一个轻量级解决方案。
 - [chalk](https://github.com/chalk/chalk) - 让你的终端字符变得丰富多彩、五颜六色。
 - [colors](https://github.com/Marak/colors.js) - 又一个给控制台中的字符添加颜色和样式的工具库。
 - [chokidar](https://github.com/paulmillr/chokidar) - 更好的 fs.watch / fs.watchFile 替代方案。
@@ -190,7 +192,6 @@
 - [ora](https://github.com/sindresorhus/ora) - 非常方便的实现终端 loading 动画效果。
 - [progress](https://github.com/visionmedia/node-progress) - 在终端实现的 ascii loading 效果，提供了丰富灵活的配置。
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 的客户端和服务端实现方案。
-- [yargs](https://github.com/yargs/yargs) - 轻松解析命令行参数。
 - [cliparoo](https://github.com/tj/node-cliparoo) - 复制指定字符串到系统剪贴板。
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - 提供跨平台级的剪贴板操作支持。
 - [inquirer](https://github.com/sboudrias/Inquirer.js) - 提供了常见的几种交互式式命令行形式。
