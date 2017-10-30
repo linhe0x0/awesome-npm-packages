@@ -178,6 +178,7 @@
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 - [serve](https://github.com/zeit/serve) - 用于开发阶段的本地静态文件服务工具。
+- [json-server](https://github.com/typicode/json-server) - 零配置构建全能 REST API 风格的数据 Mock 服务器。
 
 ## 命令行开发工具库
 
