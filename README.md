@@ -177,6 +177,7 @@
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
+- [serve](https://github.com/zeit/serve) - 用于开发阶段的本地静态文件服务工具。
 
 ## 命令行开发工具库
 
