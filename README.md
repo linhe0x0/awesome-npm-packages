@@ -270,6 +270,7 @@
 - [gulp-imageisux](https://github.com/targetkiller/gulp-imageisux) - [智图](http://zhitu.isux.us/) 的 Gulp 插件。
 - [gulp-lazyimagecss](https://github.com/weixin/gulp-lazyimagecss) - 高效地书写 CSS 必备，自动生成图片CSS属性，如：width & height 等。
 - [gulp-svg-inline](https://github.com/weixin/gulp-svg-inline) - 内联 svg 文件到 CSS。
+- [gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) - 转化 svg 为 symbols。
 - [gulp-cssnano](https://github.com/ben-eb/gulp-cssnano) - 在 Gulp 中使用 cssnano 进行 CSS 压缩。
 - [gulp-postcss](https://github.com/postcss/gulp-postcss) - 在 Gulp 中使用 [PostCSS](https://github.com/postcss/postcss)。
 - [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) - 在 Gulp 中使用 Autoprefixer 进行 CSS 前缀自动补全。
