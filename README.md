@@ -211,6 +211,7 @@
 
 - [rxjs](https://github.com/ReactiveX/RxJS) - 大名鼎鼎的 Reactive 反应式编程的 JS 实现。
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - 这可能是最好用的复制到剪贴板的工具库了。
+- [g2](https://github.com/antvis/g2) - 蚂蚁金服出品的数据可视化库。
 
 ## React 周边
 
