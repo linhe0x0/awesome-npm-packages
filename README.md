@@ -225,6 +225,8 @@
 
 ## Vue 周边
 
+- [vuetify](https://github.com/vuetifyjs/vuetify) - Material 设计风格的 UI 组件库。
+
 ## webpack 周边
 
 - [webpack](https://github.com/webpack/webpack) - 目前为止最强大的 JS 模块加载器。
