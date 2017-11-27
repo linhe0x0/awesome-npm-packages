@@ -80,6 +80,7 @@
 - [ajv](https://github.com/epoberezkin/ajv) - 性能极佳的 JSON Schema 验证工具。
 - [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
+- [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
 
 ## 网络服务框架
 
