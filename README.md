@@ -77,6 +77,7 @@
 - [lockfile](https://github.com/npm/lockfile) - 轻量级的添加文件锁的实用工具。
 - [mime-types](https://github.com/jshttp/mime-types) - 根据文件类型判断其 content-type。
 - [ajv](https://github.com/epoberezkin/ajv) - 性能极佳的 JSON Schema 验证工具。
+- [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 
 ## 网络服务框架
 
