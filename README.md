@@ -83,6 +83,7 @@
 - [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
+- [portfinder](https://github.com/indexzero/node-portfinder) - 端口冲突检查利器。
 
 ## 网络服务框架
 
