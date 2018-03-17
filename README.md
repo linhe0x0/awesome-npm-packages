@@ -52,6 +52,7 @@
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 - [csv](https://github.com/wdavidw/node-csv) - 简洁而又功能强大的 CSV 格式解析器。
 - [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
+- [date-fns](https://github.com/date-fns/date-fns) - 提供最全面、简单、一致的时间工具集，支持按需引入。
 - [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 - [sequelize](https://github.com/sequelize/sequelize) - 简单易用、支持多 SQL 语言的 ORM 实现。
 - [opn](https://github.com/sindresorhus/opn) - 跨平台的打开指定文件或者网站的小工具。
