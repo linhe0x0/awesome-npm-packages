@@ -52,6 +52,7 @@
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 - [csv](https://github.com/wdavidw/node-csv) - 简洁而又功能强大的 CSV 格式解析器。
 - [moment](https://github.com/moment/moment) - 这可能是功能最强大的时间、日期处理库了。
+- [date-fns](https://github.com/date-fns/date-fns) - 提供最全面、简单、一致的时间工具集，支持按需引入。
 - [bluebird](https://github.com/petkaantonov/bluebird) - 高性能的 promise 全特性实现库。
 - [sequelize](https://github.com/sequelize/sequelize) - 简单易用、支持多 SQL 语言的 ORM 实现。
 - [opn](https://github.com/sindresorhus/opn) - 跨平台的打开指定文件或者网站的小工具。
@@ -65,6 +66,7 @@
 - [uuid](https://github.com/kelektiv/node-uuid) - 生成符合 RFC 规范的 UUID。
 - [nanoid](https://github.com/ai/nanoid) - 轻量级、安全、URL 友好的唯一字符串生成器。
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - 添加了很多原生 fs 模块中没有但实用的方法。
+- [recursive-readdir](https://github.com/jergason/recursive-readdir) - 递归列出目录及其子目录中的所有文件，不会列出目录。
 - [mkdirp](https://github.com/substack/node-mkdirp) - Shell 命令 `mkdir -p` 的实现。
 - [del](https://github.com/sindresorhus/del) - 删除指定的文件或目录。
 - [busboy](https://github.com/mscdex/busboy) - 响应 HTML 表单数据的流解析器。
@@ -81,6 +83,7 @@
 - [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
+- [portfinder](https://github.com/indexzero/node-portfinder) - 端口冲突检查利器。
 
 ## 网络服务框架
 
@@ -147,6 +150,7 @@
 - [chai](https://github.com/chaijs/chai) - 兼容所有测试框架的跨平台 BDD / TDD 风格断言库，支持 Node.js 和浏览器。
 - [should](https://github.com/shouldjs/should.js) - BDD 风格的断言库。
 - [expect.js](https://github.com/Automattic/expect.js) - 基于 [should](https://github.com/shouldjs/should.js) 的 BDD 风格断言库。
+- [power-assert](https://github.com/power-assert-js/power-assert) - 没有记忆成本的断言库，大多数情况只需使用`assert()`一个方法即可。
 - [tempfile](https://github.com/sindresorhus/tempfile) - 获取随机的临时文件路径。
 - [temp-write](https://github.com/sindresorhus/temp-write) - 将字符串 / buffer / stream 写入随机的临时文件中。
 
