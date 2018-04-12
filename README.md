@@ -84,6 +84,7 @@
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
 - [portfinder](https://github.com/indexzero/node-portfinder) - 端口冲突检查利器。
+- [cross-env](https://github.com/kentcdodds/cross-env) - 兼容多平台的环境变量设置和获取工具。
 
 ## 网络服务框架
 
