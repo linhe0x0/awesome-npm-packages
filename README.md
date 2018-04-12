@@ -84,6 +84,7 @@
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
 - [portfinder](https://github.com/indexzero/node-portfinder) - 端口冲突检查利器。
+- [detect-port](https://github.com/node-modules/detect-port) - 端口检测器。
 - [cross-env](https://github.com/kentcdodds/cross-env) - 兼容多平台的环境变量设置和获取工具。
 
 ## 网络服务框架
@@ -216,7 +217,6 @@
 - [path-type](https://github.com/sindresorhus/path-type) - 检测指定的路径是否是文件、目录的工具库。
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建出盒子（矩形）。
 - [dargs](https://github.com/sindresorhus/dargs) - 将对象反向序列化为命令行参数形式的数组。
-- [detect-port](https://github.com/node-modules/detect-port) - 端口检测器。
 - [shelljs](https://github.com/shelljs/shelljs) - 执行 Unix shell 命令。
 
 ## 前端 JS 库
