@@ -217,6 +217,7 @@
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建出盒子（矩形）。
 - [dargs](https://github.com/sindresorhus/dargs) - 将对象反向序列化为命令行参数形式的数组。
 - [detect-port](https://github.com/node-modules/detect-port) - 端口检测器。
+- [shelljs](https://github.com/shelljs/shelljs) - 执行 Unix shell 命令。
 
 ## 前端 JS 库
 
