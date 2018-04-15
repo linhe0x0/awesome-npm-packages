@@ -187,7 +187,6 @@
 - [slush](https://github.com/slushjs/slush) - 基于流的应用脚手架生成器。
 - [tldr](https://github.com/tldr-pages/tldr-node-client) - [tldr](https://github.com/tldr-pages/tldr) 的命令行工具。
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 移动文件至垃圾桶中，安心的删除文件。
-- [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 - [serve](https://github.com/zeit/serve) - 用于开发阶段的本地静态文件服务工具。
 - [json-server](https://github.com/typicode/json-server) - 零配置构建全能 REST API 风格的数据 Mock 服务器。
@@ -239,6 +238,7 @@
 
 ## Vue 周边
 
+- [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material 设计风格的 UI 组件库。
 
 ## webpack 周边
