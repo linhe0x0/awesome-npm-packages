@@ -238,6 +238,7 @@
 
 ## Vue 周边
 
+- [vue](https://github.com/vuejs/vue) - 构建 Web UI 的渐进式 JavaScript 框架。
 - [vue-cli](https://github.com/vuejs/vue-cli) - Vue 项目脚手架。
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material 设计风格的 UI 组件库。
 
