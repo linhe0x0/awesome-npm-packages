@@ -118,6 +118,7 @@
 - [express-validator](https://github.com/ctavan/express-validator) - 依赖 validator 工具库实现的 express 验证中间件。
 - [connect-redis](https://github.com/tj/connect-redis) - Redis session 存储中间件。
 - [multer](https://github.com/expressjs/multer) - 响应 `multipart/form-data` 的中间件。
+- [helmet](https://github.com/helmetjs/helmet) - 通过设置各种 HTTP 请求头，提高 Express 应用的安全性。
 
 ## Koa 中间件
 
