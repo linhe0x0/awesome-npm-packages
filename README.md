@@ -38,7 +38,6 @@
 - [md5-file](https://github.com/roryrjb/md5-file) - 让你更轻松的计算文件的 MD5。
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 快速、易扩展的 Markdown 解析器。
 - [marked](https://github.com/chjj/marked) - 又一个全功能的 Markdown 解析器。
-
 - [node-forge](https://github.com/digitalbazaar/forge) - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
 - [filesize](https://github.com/avoidwork/filesize.js) - 同样将文件大小格式的字符串转换成人类易读的字符串的工具。
