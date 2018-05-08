@@ -201,6 +201,7 @@
 - [args](https://github.com/leo/args) - 开发命令行工具一个轻量级解决方案。
 - [chalk](https://github.com/chalk/chalk) - 让你的终端字符变得丰富多彩、五颜六色。
 - [colors](https://github.com/Marak/colors.js) - 又一个给控制台中的字符添加颜色和样式的工具库。
+- [consola](https://github.com/nuxt/consola) - 用于开发 CLI 应用的优雅输出工具。
 - [chokidar](https://github.com/paulmillr/chokidar) - 更好的 fs.watch / fs.watchFile 替代方案。
 - [glob](https://github.com/isaacs/node-glob) - 使用 shell 模式来匹配文件路径。
 - [mkdirp](https://github.com/substack/node-mkdirp) - `mkdir -p` 命令的 Node 实现。
