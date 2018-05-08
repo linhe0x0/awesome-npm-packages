@@ -38,7 +38,7 @@
 - [md5-file](https://github.com/roryrjb/md5-file) - 让你更轻松的计算文件的 MD5。
 - [markdown-it](https://github.com/markdown-it/markdown-it) - 快速、易扩展的 Markdown 解析器。
 - [marked](https://github.com/chjj/marked) - 又一个全功能的 Markdown 解析器。
-- [nconf](https://github.com/indexzero/nconf) - 通过解析配置文件、环境变量、命令行参数让你轻松进行配置数据分层处理。
+
 - [node-forge](https://github.com/digitalbazaar/forge) - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
 - [filesize](https://github.com/avoidwork/filesize.js) - 同样将文件大小格式的字符串转换成人类易读的字符串的工具。
@@ -62,6 +62,8 @@
 - [cheerio](https://github.com/cheeriojs/cheerio) - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
 - [path-exists](https://github.com/sindresorhus/path-exists) - 检测指定的路径是否存在。
 - [conf](https://github.com/sindresorhus/conf) - 让你非常容易的对应用或模块做配置处理。
+- [nconf](https://github.com/indexzero/nconf) - 通过解析配置文件、环境变量、命令行参数让你轻松进行配置数据分层处理。
+- [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 - [axios](https://github.com/mzabriskie/axios) - 能够同时用于浏览器端和 Node.js 端的基于 Promise 的 HTTP 客户端。
 - [uuid](https://github.com/kelektiv/node-uuid) - 生成符合 RFC 规范的 UUID。
 - [nanoid](https://github.com/ai/nanoid) - 轻量级、安全、URL 友好的唯一字符串生成器。
@@ -80,7 +82,6 @@
 - [lockfile](https://github.com/npm/lockfile) - 轻量级的添加文件锁的实用工具。
 - [mime-types](https://github.com/jshttp/mime-types) - 根据文件类型判断其 content-type。
 - [ajv](https://github.com/epoberezkin/ajv) - 性能极佳的 JSON Schema 验证工具。
-- [config](https://github.com/lorenwest/node-config) - Node 应用的配置文件统一管理工具。
 - [randomatic](https://github.com/jonschlinkert/randomatic) - 随机字符串生成器。
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 对文件进行解压（unzip）的工具。
 - [portfinder](https://github.com/indexzero/node-portfinder) - 当端口冲突时快速获取一个可用端口。
