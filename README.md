@@ -27,6 +27,7 @@
 
 - [lodash](https://github.com/lodash/lodash) - 具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
 - [underscore](https://github.com/jashkenas/underscore) - 跟 lodash 类似，提供了一系列有用的辅助函数。
+- [ramda](https://github.com/ramda/ramda) - 完全函数式编程思想实现的 Javascript 实用工具库。
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
 - [eslint](https://github.com/eslint/eslint) - 功能强大的 JavaScript 代码风格检查报告工具。
 - [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) - 以一种更加友好（指出文件和行号）的方式反馈 [eslint](https://github.com/eslint/eslint) 的错误。
