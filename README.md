@@ -22,6 +22,7 @@
 - [babel 周边](#babel-周边)
 - [gulp 周边](#gulp-周边)
 - [CSS 相关](#css-相关)
+- [其他](#其他)
 
 ## 工具库
 
@@ -306,3 +307,7 @@
 ## CSS 相关
 
 - [hamburgers](https://github.com/jonsuh/hamburgers) - 使用 CSS 制作的各种 hamburger 动画图标。
+
+## 其他
+
+- [pell](https://github.com/jaredreich/pell) - 非常轻量级且无依赖的 Web WYSIWYG（所见即所得）编辑器，能够轻松和 `Vue`、`React` 集成。
