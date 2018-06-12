@@ -267,6 +267,7 @@
 - [style-loader](https://github.com/webpack-contrib/style-loader) - 将 CSS 样式添加至 style 标签中。
 - [url-loader](https://github.com/webpack-contrib/url-loader) - 为 [webpack](https://github.com/webpack/webpack) 服务的静态资源 URL 服务加载器。
 - [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - 非常实用的 [webpack](https://github.com/webpack/webpack) 构建分析器。
+- [webpack-serve](https://github.com/webpack-contrib/webpack-serve) - 精简、现代、灵活的 webpack 开发服务器。
 - [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) - [webpack](https://github.com/webpack/webpack) 开发服务器中间间。
 - [webpack-hot-middleware](https://github.com/glenjamin/webpack-hot-middleware) - [webpack](https://github.com/webpack/webpack) 热重载中间间。
 - [webpack-merge](https://github.com/survivejs/webpack-merge) - 合并多个 [webpack](https://github.com/webpack/webpack) 配置参数。
