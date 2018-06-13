@@ -26,7 +26,7 @@
 
 ## 工具库
 
-- [lodash](https://github.com/lodash/lodash) - 具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
+- [lodash](https://github.com/lodash/lodash) - [![npm](https://img.shields.io/npm/dm/lodash.svg)](https://www.npmjs.com/package/lodash) 具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
 - [underscore](https://github.com/jashkenas/underscore) - 跟 lodash 类似，提供了一系列有用的辅助函数。
 - [ramda](https://github.com/ramda/ramda) - 完全函数式编程思想实现的 Javascript 实用工具库。
 - [delay](https://github.com/sindresorhus/delay) - 在一定的时间内延迟执行 Promise。
