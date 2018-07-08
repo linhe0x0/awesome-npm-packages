@@ -26,7 +26,7 @@
 
 ## 工具库
 
-- [lodash](https://github.com/lodash/lodash) - 
+- [lodash](https://github.com/lodash/lodash) -
 [![npm](https://img.shields.io/npm/dm/lodash.svg)](https://www.npmjs.com/package/lodash)
 [![npm](https://img.shields.io/npm/v/lodash.svg)](https://www.npmjs.com/package/lodash)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lodash/lodash.svg)](https://github.com/lodash/lodash)
@@ -199,6 +199,7 @@
 - [lerna](https://github.com/lerna/lerna) - 同时管理多个包的 Javascript 项目管理工具。
 - [serve](https://github.com/zeit/serve) - 用于开发阶段的本地静态文件服务工具。
 - [json-server](https://github.com/typicode/json-server) - 零配置构建全能 REST API 风格的数据 Mock 服务器。
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 在终端使用 carbon.now.sh 服务。
 
 ## 命令行开发工具库
 
