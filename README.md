@@ -247,6 +247,7 @@
 - [react-router-config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config) - React Router 的静态路由配置助手。
 - [react-router-redux](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) - 将你的应用状态和路由保持同步。
 - [redux-observable](https://github.com/redux-observable/redux-observable) - 在 [redux](https://github.com/reactjs/redux) 中使用 RxJS 的中间件。
+- [@reach/router](https://github.com/reach/router) - React Router 原作者打造的另一款具有极简 API 的轻量级路由库。
 
 ## Vue 周边
 
