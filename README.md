@@ -93,6 +93,7 @@
 - [detect-port](https://github.com/node-modules/detect-port) - 端口检测器。
 - [cross-env](https://github.com/kentcdodds/cross-env) - 兼容多平台的环境变量设置和获取工具。
 - [tcomb](https://github.com/gcanti/tcomb) - 兼容 Node 和浏览器环境的 Javascript 变量类型运行时检测工具。
+- [hosted-git-info](https://github.com/npm/hosted-git-info) - 解析和转换 git host URL。
 
 ## 网络服务框架
 
