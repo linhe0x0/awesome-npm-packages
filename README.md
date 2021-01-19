@@ -147,6 +147,7 @@
 - [koa-locales](https://github.com/koajs/locales) - 实现多语言支持的中间件。
 - [koa-markdown](https://github.com/koajs/koa-markdown) - 自动转化 Markdown 文件为 HTML 文件的中间件。
 - [koa-helmet](https://github.com/venables/koa-helmet) - 通过设置各种 HTTP 请求头，提高 Koa 应用的安全性。
+- [koa2-connect-history-api-fallback](https://github.com/ishen7/koa2-connect-history-api-fallback) - 用于处理vue-router使用history模式返回index.html，让koa2支持SPA应用程序
 
 ## 测试工具
 
